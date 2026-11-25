@@ -1,11 +1,7 @@
-package com.example.notes_klimov.presentations;
-
-import static com.example.notes_klimov.domains.models.Note.colorChange;
-import static com.example.notes_klimov.presentations.NotesActivity.itemsParent;
+package com.example.notes_osennikov.presentations;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -17,12 +13,10 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.notes_klimov.R;
-import com.example.notes_klimov.datas.NotesContext;
-import com.example.notes_klimov.datas.RepoNotes;
-import com.example.notes_klimov.domains.models.Note;
-
-import org.w3c.dom.Text;
+import com.example.notes_osennikov.R;
+import com.example.notes_osennikov.datas.NotesContext;
+import com.example.notes_osennikov.datas.RepoNotes;
+import com.example.notes_osennikov.domains.models.Note;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

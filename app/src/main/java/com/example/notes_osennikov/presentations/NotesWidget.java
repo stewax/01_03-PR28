@@ -1,4 +1,4 @@
-package com.example.notes_klimov.presentations;
+package com.example.notes_osennikov.presentations;
 
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
@@ -7,9 +7,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.widget.RemoteViews;
 
-import com.example.notes_klimov.R;
-import com.example.notes_klimov.datas.NotesContext;
-import com.example.notes_klimov.domains.models.Note;
+import com.example.notes_osennikov.R;
+import com.example.notes_osennikov.datas.NotesContext;
+import com.example.notes_osennikov.domains.models.Note;
 
 import java.util.ArrayList;
 

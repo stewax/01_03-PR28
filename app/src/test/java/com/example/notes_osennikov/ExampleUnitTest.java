@@ -1,4 +1,4 @@
-package com.example.notes_klimov;
+package com.example.notes_osennikov;
 
 import org.junit.Test;
 

@@ -1,9 +1,8 @@
-package com.example.notes_klimov.domains.models;
+package com.example.notes_osennikov.domains.models;
 
-import android.view.View;
 import android.widget.LinearLayout;
 
-import com.example.notes_klimov.R;
+import com.example.notes_osennikov.R;
 
 public class Note {
     public int id;

@@ -1,4 +1,4 @@
-package com.example.notes_klimov.datas;
+package com.example.notes_osennikov.datas;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
